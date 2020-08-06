@@ -21,6 +21,6 @@ Always developing my analytical and problem-solving skills. Following the best s
 
 <br/><br/><br/>
 
-<img align="left" alt="DanilaFadeev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DanilaFadeev&show_icons=true&hide_border=true" />
+<img align="left" width="55%" alt="DanilaFadeev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DanilaFadeev&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="40%" alt="DanilaFadeev's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
